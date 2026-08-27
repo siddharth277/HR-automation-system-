@@ -25,9 +25,7 @@ See each folder's own README for setup and usage instructions.
 - **Helpdesk** — Knowledge-base Q&A for HR policies
 - **Onboarding** — Automated onboarding document generation
 
-## Platform Reference
 
-For details on the A2A protocol, building/deploying agents, and the Agent Card format, see [`HACKATHON_AGENT_GUIDE.md`](./HACKATHON_AGENT_GUIDE.md).
 
 ## License
 
