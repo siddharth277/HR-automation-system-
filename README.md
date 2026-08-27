@@ -9,7 +9,7 @@ This repo contains two ways to run the same HR agent:
 
 | Folder | What it is | Use this when... |
 |---|---|---|
-| [`hackathon/`](./hackathon) | Standalone FastAPI app with a web dashboard (JD generation, resume screening, email drafting, calendar scheduling, onboarding, helpdesk) | You want to run the full system locally with a UI |
+| [`main`](./main) | Standalone FastAPI app with a web dashboard (JD generation, resume screening, email drafting, calendar scheduling, onboarding, helpdesk) | You want to run the full system locally with a UI |
 | [`hr-ai-agent/`](./hr-ai-agent) | The same HR skillset packaged as an A2A (Agent-to-Agent) protocol agent for the Nasiko platform | You want to deploy the agent behind the A2A JSON-RPC interface |
 
 See each folder's own README for setup and usage instructions.
